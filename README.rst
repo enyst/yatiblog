@@ -1,7 +1,12 @@
-Yatiblog was created to power `Tav's blog <http://tav.espians.com>`_ and to
-create documentation for projects like `Ampify <http://ampify.it>`_. It
-generates static HTML files from source ``.txt`` files from the information
-provided within:
+Hacking Yatiblog.
+
+The following is yatiblog upstream description.
+
+-------------------------------------------------------------------------
+
+Yatiblog is the blog engine that runs `Tav's blog <http://tav.espians.com>`,
+also used to create documentation for projects like `Ampify <http://ampify.it>`.
+It generates static HTML files from source ``.txt`` files from:
 
 * ``yatiblog.conf``
 * Any triple-dashed YAML metadata header within the text files.
@@ -39,14 +44,12 @@ documentation, see:
 
 **Contribute**
 
-To contribute any patches simply fork the repository using GitHub and send a
-pull request to https://github.com/tav, thanks!
+Ideas for further development and pull requests are welcome, thanks!
 
 **License**
 
-All of the code has been released into the `Public Domain
+The initial yatiblog code has been released into the `Public Domain
 <https://github.com/tav/yatiblog/raw/master/UNLICENSE>`_. Do with it as you
 please.
 
--- 
-Enjoy, tav <tav@espians.com>
+tav <tav@espians.com>
